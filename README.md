@@ -1,4 +1,4 @@
-## Hi there 👋👧🏻 
+## Hi there 👋🏻👩🏻
 
 
 #### 🔭 I’m currently working on NLP and crypto currency price predictions!
