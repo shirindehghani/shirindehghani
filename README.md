@@ -14,6 +14,9 @@
 <a href="https://www.python.org">
   <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
+<a href="https://www.r-project.org/">
+  <img align="left" height="30px" src="![image](https://user-images.githubusercontent.com/43528010/224000291-a9ad41b7-71fb-4907-8e05-f8c6ee2688ef.png)" />
+</a>
 <a href="https://pytorch.org">
   <img align="left" height="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 </a>
