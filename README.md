@@ -20,8 +20,8 @@
 <a href="https://pytorch.org">
   <img align="left" height="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 </a>
-<a href="https://nlp.johnsnowlabs.com/">
-  <img align="left" height="30px" src="https://avatars.githubusercontent.com/u/15903364?s=200&v=4" />
+<a href="https://mariadb.org/">
+  <img align="left" height="30px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_blue-transparent.png" />
 </a>
 <a href="https://www.postgresql.org">
   <img align="left" height="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
