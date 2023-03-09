@@ -1,11 +1,5 @@
 ## Hi there
 
-
-#### 🔭 I’m currently working on NLP in social networks!
-#### 🌱 I’m currently learning MLOps and advanced deep learning!
-#### 📫 How to reach me: shirin.dehghani1996@gmail.com
-
----
 [![Shirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirinDehghani&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=tokyonight&hide=stars,contribs)](https://github.com/MohammadForouhesh)
 
 
