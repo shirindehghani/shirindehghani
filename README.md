@@ -21,7 +21,7 @@
   <img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 </a>
 <a href="https://keras.io/">
-  <img align="left" height="30px" src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" />
+  <img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 </a>
 <a href="https://mariadb.org/">
   <img align="left" height="30px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent.png" />
