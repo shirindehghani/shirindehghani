@@ -17,6 +17,9 @@
 <a href="https://pytorch.org">
   <img align="left" height="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 </a>
+<a href="https://scikit-learn.org">
+  <img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+</a>
 <a href="https://www.tensorflow.org/">
   <img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 </a>
