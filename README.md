@@ -3,7 +3,7 @@
 [![Shirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirinDehghani&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=tokyonight&hide=stars,contribs)](https://github.com/MohammadForouhesh)
 
 
-### Languages / Stack
+### Languages / Frameworks
 
 <a href="https://www.python.org">
   <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -25,6 +25,9 @@
 </a>
 <a href="https://mariadb.org/">
   <img align="left" height="30px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent.png" />
+</a>
+<a href="https://fastapi.tiangolo.com/">
+  <img align="left" height="30px" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png" />
 </a>
 <a href="https://www.java.com/">
   <img align="left" height="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
