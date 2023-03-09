@@ -21,7 +21,7 @@
   <img align="left" height="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 </a>
 <a href="https://mariadb.org/">
-  <img align="left" height="30px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_blue-transparent.png" />
+  <img align="left" height="30px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent.png" />
 </a>
 <a href="https://www.postgresql.org">
   <img align="left" height="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
